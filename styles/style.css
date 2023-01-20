@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Poppins:wght@500&family=Work+Sans:wght@500&display=swap');
+
+.bg-color{
+    background-color: rgb(3, 3, 40);
+}
+.font-me{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.img-me{
+    width: 140px;
+    height: 40px;
+}
+.my-stt{
+    text-align: center;
+}
